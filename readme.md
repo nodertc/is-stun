@@ -27,9 +27,9 @@ socket.bind(0)
 
 ## Related projects
 
-* [`is-dtls`](https://github.com/reklatsmasters/is-dtls)
-* [`is-turn`](https://github.com/reklatsmasters/is-turn)
-* [`is-rtp`](https://github.com/reklatsmasters/is-rtp)
+* [`is-dtls`](https://github.com/reklatsmasters/is-dtls) - Check if a Buffer is a [DTLS](https://tools.ietf.org/html/rfc4347) message.
+* [`is-turn`](https://github.com/reklatsmasters/is-turn) - Check if a Buffer is a [TURN](https://tools.ietf.org/html/rfc5766) message.
+* [`is-rtp`](https://github.com/reklatsmasters/is-rtp) - Check if a Buffer is a [RTP/RTCP](https://tools.ietf.org/html/rfc3550) message.
 
 ## License
 
