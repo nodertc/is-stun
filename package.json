@@ -1,0 +1,41 @@
+{
+  "name": "is-stun",
+  "version": "0.0.0",
+  "description": "Check if a Buffer is a STUN message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reklatsmasters/is-stun.git"
+  },
+  "keywords": [
+    "stun",
+    "rfc7923",
+    "rfc5764",
+    "rfc5389",
+    "packet",
+    "message",
+    "test",
+    "detect",
+    "demultiplexing",
+    "demultiplex",
+    "demux"
+  ],
+  "author": "Dmitry Tsvettsikh <me@reklatsmasters.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reklatsmasters/is-stun/issues"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/reklatsmasters/is-stun#readme",
+  "dependencies": {
+    "number-in-range": "^1.0.5"
+  },
+  "devDependencies": {
+    "tape": "^4.7.0"
+  }
+}
