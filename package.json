@@ -12,7 +12,7 @@
   },
   "keywords": [
     "stun",
-    "rfc7923",
+    "rfc7983",
     "rfc5764",
     "rfc5389",
     "packet",
@@ -32,9 +32,7 @@
     "node": ">=4"
   },
   "homepage": "https://github.com/reklatsmasters/is-stun#readme",
-  "dependencies": {
-    "number-in-range": "^1.0.5"
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "^4.7.0"
   }

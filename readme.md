@@ -6,7 +6,7 @@
 [![license](https://img.shields.io/npm/l/is-stun.svg)](https://npmjs.org/package/is-stun)
 [![downloads](https://img.shields.io/npm/dm/is-stun.svg)](https://npmjs.org/package/is-stun)
 
-Check if a Buffer is a STUN message. Used for demultiplex packets that are arriving on the same port.
+Check if a Buffer is a [STUN](https://tools.ietf.org/html/rfc5389) message. Used for demultiplex packets that are arriving on the same port. Follows [RFC7983](https://tools.ietf.org/html/rfc7983#section-7).
 
 ## Usage
 
