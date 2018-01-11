@@ -1,6 +1,6 @@
 # is-stun
 
-[![Build Status](https://travis-ci.org/reklatsmasters/is-stun.svg?branch=master)](https://travis-ci.org/reklatsmasters/is-stun)
+[![Build Status](https://travis-ci.org/nodertc/is-stun.svg?branch=master)](https://travis-ci.org/nodertc/is-stun)
 [![npm](https://img.shields.io/npm/v/is-stun.svg)](https://npmjs.org/package/is-stun)
 [![node](https://img.shields.io/node/v/is-stun.svg)](https://npmjs.org/package/is-stun)
 [![license](https://img.shields.io/npm/l/is-stun.svg)](https://npmjs.org/package/is-stun)
@@ -27,9 +27,9 @@ socket.bind(0)
 
 ## Related projects
 
-* [`is-dtls`](https://github.com/reklatsmasters/is-dtls) - Check if a Buffer is a [DTLS](https://tools.ietf.org/html/rfc4347) message.
-* [`is-turn`](https://github.com/reklatsmasters/is-turn) - Check if a Buffer is a [TURN](https://tools.ietf.org/html/rfc5766) message.
-* [`is-rtp`](https://github.com/reklatsmasters/is-rtp) - Check if a Buffer is a [RTP/RTCP](https://tools.ietf.org/html/rfc3550) message.
+* [`is-dtls`](https://github.com/nodertc/is-dtls) - Check if a Buffer is a [DTLS](https://tools.ietf.org/html/rfc4347) message.
+* [`is-turn`](https://github.com/nodertc/is-turn) - Check if a Buffer is a [TURN](https://tools.ietf.org/html/rfc5766) message.
+* [`is-rtp`](https://github.com/nodertc/is-rtp) - Check if a Buffer is a [RTP/RTCP](https://tools.ietf.org/html/rfc3550) message.
 
 ## License
 

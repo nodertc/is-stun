@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reklatsmasters/is-stun.git"
+    "url": "git+https://github.com/nodertc/is-stun.git"
   },
   "keywords": [
     "stun",
@@ -26,12 +26,12 @@
   "author": "Dmitry Tsvettsikh <me@reklatsmasters.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reklatsmasters/is-stun/issues"
+    "url": "https://github.com/nodertc/is-stun/issues"
   },
   "engines": {
     "node": ">=4"
   },
-  "homepage": "https://github.com/reklatsmasters/is-stun#readme",
+  "homepage": "https://github.com/nodertc/is-stun#readme",
   "dependencies": {},
   "devDependencies": {
     "tape": "^4.7.0"
