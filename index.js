@@ -9,5 +9,5 @@ function isStun(packet) {
     return numberInRange(packet[0])
   }
 
-  throw new TypeError('Argument 1 should be a Buffer.')
+  return false
 }
